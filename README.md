@@ -57,7 +57,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/manikanta2026/Doc-Assistant
+   https://github.com/Krishnachaitanya2408/AutoSummarization.git
    ```
 
 2. Install frontend dependencies
