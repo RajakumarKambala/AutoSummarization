@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 📄 Doc-Assistant – Smart PDF Summarization, Q&A & Quiz Generator
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/manikanta2026/Doc-Assistant?style=flat-square)
@@ -119,3 +120,6 @@ https://doc-assistant-frontend.vercel.app/
 =======
 # AutoSummarization
 >>>>>>> a2d888b99830093fb12b66652b9910e0815209c1
+=======
+# AutoSummarization
+>>>>>>> 15dc7d542dc2f71d18223b8b458fd2fd246b620c
